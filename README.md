@@ -25,7 +25,7 @@ RUTAS API
 -------------------------------------------------------------------------------
 OPCIÓN: GETALL   URL: 127.0.0.1:8000/api/clientes                  METHOD: GET
 OPCIÓN: GETID    URL: 127.0.0.1:8000/api/clientes/{id}             METHOD: GET
-OPCIÓN: SEARCH   URL: 127.0.0.1:8000/api/clientes/serch/{nombre}   METHOD: GET
+OPCIÓN: SEARCH   URL: 127.0.0.1:8000/api/clientes/search/{nombre}  METHOD: GET
 OPCIÓN: UPDATE   URL: 127.0.0.1:8000/api/clientes                  METHOD: PUT
 OPCIÓN: INSERT   URL: 127.0.0.1:8000/api/clientes                  METHOD: POST
 
